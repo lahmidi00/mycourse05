@@ -51,7 +51,7 @@ void printreverseToNormal(int number)
 int main()
 {
 	
-	int number = readnumbers("enter a positive number");
+	int number = readnumbers("please enter a positive number");
 	
 	printreverseToNormal(normalToRevers(number));
 	
