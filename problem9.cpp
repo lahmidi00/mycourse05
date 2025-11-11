@@ -71,7 +71,7 @@ void PrintAllDigitsFrequencey(int Number)
 int main()
 {
     // Prompt the user to enter a number.
-    int Number = ReadPositiveNumber("Please enter the a number?");
+    int Number = ReadPositiveNumber("Please enter the number?");
     // Print the frequency of each digit (0-9) in the entered number.
     PrintAllDigitsFrequencey(Number);
     
