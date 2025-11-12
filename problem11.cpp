@@ -46,7 +46,7 @@ int main()
 	
 	else
 	
-		cout << "it is not a palindrom number";
+		cout << "it is NOT a palindrom number";
 	
 		
 	return 0;
