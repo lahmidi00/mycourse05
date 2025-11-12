@@ -42,11 +42,11 @@ int main()
 	
 	if (IsPalindromrNumber(readnumbers("enter a positive number")))
 	
-		cout << "is palindrom number";
+		cout << "Yes ,is palindrom number";
 	
 	else
 	
-		cout << "it is NOT a palindrom number";
+		cout << "NO ,it is NOT a palindrom number";
 	
 		
 	return 0;
