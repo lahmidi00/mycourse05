@@ -4,7 +4,7 @@
 
 using namespace std;
 
-//                                   print Invered number pattern progarm
+//                                   print Invered number pattern program
 int readnumbers(string Message)
 {
 	int number = 0;
