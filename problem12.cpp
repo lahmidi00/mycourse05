@@ -1,9 +1,10 @@
 #include<iostream>
-#include<cmath>
+
 #include<string> 
 
 using namespace std;
 
+//                                   print Invered number pattern progarm
 int readnumbers(string Message)
 {
 	int number = 0;
